@@ -15,6 +15,6 @@ Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal
 
 3. How to implement ?
 
-	(a) Main.m : After running the program, you can execute each block individually. Simply click the window with "%%" and press Ctrl+Enter to get the desired results and images.
+	(a) Main.m : After running the program, you can execute each block individually. Simply click the window with "%%" and press Ctrl+Enter to get the desired results and images.  
 	(b) In the 6th row, the parameter "Expri": There are 4 experiments in this paper, so you can choose 1 to 4 according to the experiment.
 	
