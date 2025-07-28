@@ -18,4 +18,4 @@ __Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Sign
 3. How to implement ?
 
 	(a) Main.m : After running the program, you can execute each block individually. Simply click the window with "%%" and press Ctrl+Enter to get the desired results and images.  
-	(b) In the __8th__ row, the parameter Expri: There are 4 experiments in this paper, so you can __choose 1 to 4__ according to the experiment.
+	(b) In the __6th__ row, the parameter Expri: There are 4 experiments in this paper, so you can __choose 1 to 4__ according to the experiment.
