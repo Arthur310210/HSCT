@@ -7,7 +7,7 @@ Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal
 
 2. Functions:  
 
-	(a) "TF_algorithm.m" : Chirplet Transform(CT), Synchrosqueezing Chirplet Transform(SCT) and Proposed algorithm(HSCT)  
+	(a) "TF_algorithm.m" : Chirplet Transform(CT), Synchrosqueezing Chirplet Transform(SCT) and __Proposed algorithm(HSCT)__  
 	(b) "Renyi_entropy.m" : Compute Renyi entropy  
 	(c) "imageSQ.m" : Function for drawing two-dimensional time-frequency graph  
 	(d) "dwindow.m" : Derivative of window function  
