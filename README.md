@@ -2,6 +2,8 @@
 __Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal Analysis__  
 #__Reference: https://arxiv.org/abs/2405.06937__  
 #Authors: Yi-Ju Yen, De-Yan Lu, Sing-Yuan Yeh, Jian-Jiun Ding, Chun-Yen Shen  
+#Graduate Institute of Communication Engineering, National Taiwan University
+#Department of Mathematics, National Taiwan University
 
 1. Main_program: __Main.m__  
 
