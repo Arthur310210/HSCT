@@ -1,9 +1,9 @@
 # HSCT
-Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal Analysis  
+__Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal Analysis__  
 #__Reference: https://arxiv.org/abs/2405.06937__  
 #Authors: Yi-Ju Yen, De-Yan Lu, Sing-Yuan Yeh, Jian-Jiun Ding, Chun-Yen Shen  
 
-1. Main_program: __Main.m__  
+1. __Main_program: Main.m__  
 
 2. Functions:  
 
