@@ -7,14 +7,14 @@ Topic : High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal
 
 2. Functions:  
 
-(a).TF_algorithm.m : Chirplet Transform(CT), Synchrosqueezing Chirplet Transform(SCT) and Proposed algorithm(HSCT)  
-(b).Renyi_entropy.m : Compute Renyi entropy  
-(c).imageSQ.m : Function for drawing two-dimensional time-frequency graph  
-(d).dwindow.m : Derivative of window function  
-(e).Check_zero.m : The function of checking if a vector contains 0  
+	(a).TF_algorithm.m : Chirplet Transform(CT), Synchrosqueezing Chirplet Transform(SCT) and Proposed algorithm(HSCT)  
+	(b).Renyi_entropy.m : Compute Renyi entropy  
+	(c).imageSQ.m : Function for drawing two-dimensional time-frequency graph  
+	(d).dwindow.m : Derivative of window function  
+	(e).Check_zero.m : The function of checking if a vector contains 0  
 
 3. How to implement ?
 
-(a).In Matlab: Main.m : After running the program, you can execute each block individually. Simply click the window with "%%" and press Ctrl+Enter to get the desired results and images.
-(b).In the 8th row, the parameter Expri: There are 4 experiments in this paper, so you can choose 1 to 4 according to the experiment.
+	(a).In Matlab: Main.m : After running the program, you can execute each block individually. Simply click the window with "%%" and press Ctrl+Enter to get the desired results and images.
+	(b).In the 6th row, the parameter "Expri": There are 4 experiments in this paper, so you can choose 1 to 4 according to the experiment.
 	
